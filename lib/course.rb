@@ -8,7 +8,7 @@ class Course
   end
 
   def self.all
-    @Aalll
+    @@all
   end
 
   def self.reset.all
