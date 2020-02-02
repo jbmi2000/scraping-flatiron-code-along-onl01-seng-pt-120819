@@ -48,6 +48,6 @@ class Scraper
   def print_courses
   end
 
-
+binding.pry 
 end
 Scraper.new.print_courses
